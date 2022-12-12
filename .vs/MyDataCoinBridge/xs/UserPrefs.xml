@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{17946292-2259-4FB2-A02D-F0F933B6A5E3}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyDataCoinBridge PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyDataCoinBridge/Services/ProvidersServices.cs">
+    <Files>
+      <File FileName="MyDataCoinBridge/Controllers/ProvidersController.cs" />
+      <File FileName="MyDataCoinBridge/DataAccess/WebApiDbContext.cs" />
+      <File FileName="MyDataCoinBridge/data_coin.json" />
+      <File FileName="MyDataCoinBridge/Entities/Country.cs" />
+      <File FileName="MyDataCoinBridge/Entities/DataProvider.cs" />
+      <File FileName="MyDataCoinBridge/Entities/RewardCategory.cs" />
+      <File FileName="MyDataCoinBridge/Entities/Transaction.cs" />
+      <File FileName="MyDataCoinBridge/Interfaces/IProviders.cs" />
+      <File FileName="MyDataCoinBridge/appsettings.json" />
+      <File FileName="MyDataCoinBridge/.gitignore" />
+      <File FileName="MyDataCoinBridge/Program.cs" />
+      <File FileName="MyDataCoinBridge/Entities/UserTermsOfUse.cs" />
+      <File FileName="MyDataCoinBridge/Services/ProvidersServices.cs" Line="559" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyDataCoinBridge" expanded="True">
+            <Node name="MyDataCoinBridge" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
